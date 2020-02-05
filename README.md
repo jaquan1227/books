@@ -23,7 +23,6 @@
 - SQL Antipatterns
 - High Performance MySQL
 - Compilers Principles Techniques, and Tools (Alfred V.Aho)
-- 객체 지향의 사실과 오해
 - 오브젝트
 
 ## 인문
@@ -33,6 +32,7 @@
 - 동물 해방
 - 틀리지 않는 법
 - 마케터의 일
+- 인스파이어드
 
 ## 소설
 - 얼음과 불의 노래 (?)
